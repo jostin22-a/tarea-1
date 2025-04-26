@@ -1,0 +1,3 @@
+Toyota Corolla 0.08
+Honda Civic 0.07
+Ford Focus 0.09
