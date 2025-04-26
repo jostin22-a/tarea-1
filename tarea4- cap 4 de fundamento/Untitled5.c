@@ -1,0 +1,11 @@
+#include <stdio.h>
+void main(void)
+{
+int I;
+for (I = 1; I <= 10; I++)
+printf("\nEl cubo de I es:%d", cubo(I));
+}
+int cubo(int K)
+{
+return (K*K*K);
+}
